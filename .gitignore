@@ -1,0 +1,10 @@
+# Keys
+*.p8
+
+# MacOS
+.DS_Store
+
+# Others
+node_modules/
+.env
+.env.bak
